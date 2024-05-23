@@ -1,0 +1,10 @@
+Bag-of-Words Sample Data:
+   about  avec  époque  kevin  kathy  nous  python  rado  tam'izany  this  \
+0      0     2       1      2      1     2       0     1          1     0
+1      0     0       0      0      0     0       1     0          0     0
+2      0     0       0      0      0     0       1     0          0     0
+
+   tweet  tsika  à
+0      0      1  2
+1      1      0  0
+2      0      0  0
